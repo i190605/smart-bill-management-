@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="434.0" prefWidth="632.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.control">
+   <children>
+      <Label layoutX="180.0" layoutY="14.0" prefHeight="57.0" prefWidth="272.0" text="        Terms of Use">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Label>
+      <TextArea editable="false" layoutX="116.0" layoutY="91.0" prefHeight="269.0" prefWidth="420.0" text="1) The Service Charges are fixed i.e 25% on &#10;your total bill.&#10;&#10;2) Your credentials and billing history is&#10;safe and can only be accessed by you.&#10;&#10;3) Use this app at your own risk.&#10;&#10;">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextArea>
+      <Button layoutX="291.0" layoutY="383.0" mnemonicParsing="false" onAction="#Mmenu" text="Back" />
+   </children>
+</AnchorPane>

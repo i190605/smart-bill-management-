@@ -1,0 +1,12 @@
+AnchorPane{
+	/*-fx-background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBArTpxoox2nMsyoME7ujfp-Tb-TJQb3x1qQ&usqp=CAU)*/
+	-fx-background-image:url("../bill1.jpeg")
+}
+
+Label{
+	-fx-background-color: Linen
+}
+
+Button{
+	-fx-background-color: Cyan
+}

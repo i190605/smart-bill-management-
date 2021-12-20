@@ -1,0 +1,15 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+AnchorPane{
+	/*-fx-background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBArTpxoox2nMsyoME7ujfp-Tb-TJQb3x1qQ&usqp=CAU)*/
+	-fx-background-image:url("../bk.jpg")
+}
+
+
+Label{
+	-fx-background-color: GreenYellow
+}
+
+Button{
+	-fx-background-color: DeepSkyBlue
+}
